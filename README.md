@@ -3,7 +3,7 @@ Hi 👋 My name is Ai 🌷
 
 🎓 4th-year Biology undergraduate @ PSU
 
-🧬 Interested in plant biology, genetics, molecular biology, and bioinformatics.
+🧬 Interested in biology, genetics, molecular biology, and bioinformatics.
 
 💭 Currently learning Bash, R, Python, and NGS data analysis.
 
